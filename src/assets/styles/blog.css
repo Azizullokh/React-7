@@ -1,0 +1,45 @@
+.blog {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 70px;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+li {
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    margin: auto;
+    color: white;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.blog-link {
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 9px;
+    border-radius: 6px;
+    margin-top: 10px;
+    width: 15%;
+}
+
+.blog-go {
+    background-color: rgb(20, 147, 232);
+    color: white;
+    border: 1px solid white;
+    padding: 9px;
+    margin-left: px;
+}
