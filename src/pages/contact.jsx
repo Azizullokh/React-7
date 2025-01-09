@@ -1,7 +1,7 @@
 import React from "react";
 import item from "../images/rc.jpeg";
 import tg from "../images/tg.png";
-import inst from "../images/inst.png";
+import inst from "../images/Inst.png";
 import "../assets/styles/contact.css";
 import { Link } from "react-router-dom";
 function Contact() {
